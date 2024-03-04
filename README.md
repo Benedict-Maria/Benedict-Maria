@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Benedict-Maria
-- 👀 I’m interested in programming and coding...
-- 🌱 I’m currently learning programming languages and problem solving skills...
-- ⚡ Fun fact: I'm a Student...
-
-<!---
-Benedict-Maria/Benedict-Maria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Benedict-Maria...!!
+- 😇 I'm a CSE student with a passion for programming, is on a journey to sharpen my soft skills...
+- 🤍When not coding, I lost myself in the world of books or immersed in the beats of music...!!
+- ✌🏻 I'm fluent in English , also known for self-motivation and work ethic...!!
+- 🙂Fun fact:I have a knack for discovering hidden gems in music and loves sharing them with friends...!!!
+  
